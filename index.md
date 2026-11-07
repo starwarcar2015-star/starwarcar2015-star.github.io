@@ -8,6 +8,10 @@ StillMoment: Calm & Sleep - https://play.google.com/store/apps/details?id=com.st
 
 Timekeepers: Nostalgic Alarms - https://play.google.com/store/apps/details?id=com.rmcreater.timekeepers
 
+Bailgada Champion: Bull Race - https://play.google.com/store/apps/details?id=com.bailgada.champion
+
+Bailgada Champion privacy policy: https://sites.google.com/view/bailgada-champion-privacy
+
 Privacy policy: https://sites.google.com/view/bannermagic-privacy-policy
 
 Contact: punemisal2015@gmail.com
